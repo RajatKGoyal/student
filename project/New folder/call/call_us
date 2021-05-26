@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="man" language="en">Thanks for Calling US. We are here to help you Please wait while we are connecting the call</Say>
+    <Dial timeout="15" record="true" action="https://enstxfkgxlq8d.x.pipedream.net">
+    <Number>+919899250384</Number>
+    </Dial>
+    <Say>Sorry I am busy</Say>
+</Response>
