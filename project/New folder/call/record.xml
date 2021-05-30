@@ -1,5 +1,5 @@
 <Response>
 
-<SpeakSentence voice="paul" gender="male" locale="en_US">Recording your call after the beep</SpeakSentence>
-<PlayAudio>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</PlayAudio>
+<Speak voice="paul" gender="male" locale="en_US">Recording your call after the beep</Speak>
+<Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
 <Record requestUrl="https://github.com/rajatkum45/student/tree/main/project" transcribe="true" transcribeCallbackUrl="https://transcribe.url/result"/ >
