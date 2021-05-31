@@ -1,0 +1,6 @@
+<Response>
+  <Record action="https://foo.com/get_recording/" startOnDialAnswer="true" redirect="false" maxLength="3600" />
+  <Dial>
+    <Number>15551234567</Number>
+  </Dial>
+</Response>
