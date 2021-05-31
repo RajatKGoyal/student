@@ -1,6 +1,0 @@
-<Response>
-  <Record action="https://foo.com/get_recording/" startOnDialAnswer="true" redirect="false" maxLength="3600" />
-  <Dial>
-    <Number>919899250384</Number>
-  </Dial>
-</Response>
