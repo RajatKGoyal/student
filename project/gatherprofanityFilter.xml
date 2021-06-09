@@ -1,0 +1,5 @@
+<Response>
+    <Gather input="speech" action="/completed" profanityFilter="True">
+           <Say>Welcome to T****o, How can I help you?</Say>
+        </Gather>
+</Response>
