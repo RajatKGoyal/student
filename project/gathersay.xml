@@ -1,0 +1,5 @@
+<Response>
+    <Gather input="speech dtmf" timeout="auto" numDigits="1">
+        <Say>Please press 1 or say sales for sales</Say>
+    </Gather>
+</Response>
