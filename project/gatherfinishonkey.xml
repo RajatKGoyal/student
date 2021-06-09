@@ -1,0 +1,8 @@
+<Response>
+    <Gather input="speech dtmf" finishOnKey="#" timeout="5">
+        <Say>
+            Please say something or press * to access the main menu
+        </Say>
+    </Gather>
+    <Say>We didn't receive any input. Goodbye!</Say>
+</Response>
