@@ -1,0 +1,5 @@
+<Response>
+    <Gather input="speech" action="https://6954a27207a3.ngrok.io ">
+           <Say>Welcome to Tiniyo, How can I help you</Say>
+        </Gather>
+</Response>
