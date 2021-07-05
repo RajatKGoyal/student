@@ -1,0 +1,5 @@
+<Response>
+<Say language="en-GB" voice="man">Hello. Thank you for Calling.We are unable to answer the phone right now.Please leave your message with your name and contact information.We wil return you call as soon as possible.Please leave a message after the beep.</Say>
+<Dial record="record-from-tiniyo" recordingStatusCallback="https://en2cwmant2cm.x.pipedream.net/" recordingStatusCallbackEvent="complete"/>
+<Hangup/>
+</Response>
