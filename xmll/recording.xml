@@ -1,3 +1,3 @@
 <Response>
-<Record maxLength="10" playBeep="false" record="record-from-tiniyo" recordingStatusCallback="https://ensh0ghfhpwu.x.pipedream.net/" recordingStatusCallbackEvent="complete" timeout="5"/>
+<Record maxLength="10" playBeep="true" record="record-from-tiniyo" recordingStatusCallback="https://ensh0ghfhpwu.x.pipedream.net/" recordingStatusCallbackEvent="complete" timeout="5"/>
 </Response>
