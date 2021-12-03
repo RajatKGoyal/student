@@ -1,5 +1,5 @@
 <Response>
-<Gather action="http://ivr-python.herokuapp.com/welcomeCB" language="en-IN" method="POST" numDigits="1" voice="alice">
+<Gather action="http://ivr-python.herokuapp.com/welcomeCB"  method="POST" numDigits="1">
 <Say>Thanks for calling Mixtape. Please press 1 for Table reservation. Press 2 to know your loyality point. Press 3 for any other query. Press 0 to repeat. </Say>
 </Gather>
 </Response>
