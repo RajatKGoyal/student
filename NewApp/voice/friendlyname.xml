@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice" FriendlyName="Voice call">Thanks for calling!. We are representing from Tiniyo.</Say>
+<Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+</Response>
