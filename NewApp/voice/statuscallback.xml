@@ -1,3 +1,6 @@
 <Response>
-<Say voice="alice" StatusCallback="https://enpv89d4tkg7q.x.pipedream.net/" StatusCallbackMethod="GET" >Thanks for calling!. We are representing from Tiniyo.</Say>
+<Dial>
+  <Number VoiceStatusEvent="completed" statusCallback="https://enpv89d4tkg7q.x.pipedream.net/" VoiceStatusEvent="POST">+919899250384</Number>
+  <Say voice="alice">Thanks for calling!. We are representing from Tiniyo.</Say>
+    </Dial>
 </Response>
