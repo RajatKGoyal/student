@@ -1,0 +1,5 @@
+<Response>
+  <SpeakSentence voice="susan" gender="female">I will pause 10 seconds starting now!</SpeakSentence>
+  <Pause length="10"/>
+  <SpeakSentence voice="susan" gender="female">I just paused 10 seconds</SpeakSentence>
+</Response>
