@@ -1,0 +1,5 @@
+<Response>
+    <Gather input="speech" action="/completed" partialResultCallback="https://enpv89d4tkg7q.x.pipedream.net/">
+           <Say>Welcome to Tiniyo, How can I help you</Say>
+        </Gather>
+</Response>
