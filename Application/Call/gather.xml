@@ -1,0 +1,8 @@
+<Response>
+    <Gather input="speech dtmf" timeout="10" numDigits="1">
+        <Say>
+            Please enter your identity number,
+        </Say>
+    </Gather>
+    <Say>We didn't receive any input. Goodbye!</Say>
+</Response>
