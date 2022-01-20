@@ -1,0 +1,10 @@
+<Response>
+  <Dial>
+    <Conference beep="false" 
+                waitUrl="https://s3.amazonaws.com/plivocloud/Trumpet.mp3"
+                startConferenceOnEnter="true"
+                endConferenceOnExit="true">
+      Room 21
+    </Conference>
+  </Dial>
+</Response>
