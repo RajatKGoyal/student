@@ -1,0 +1,5 @@
+<Response>
+  <Dial>
+    <Conference jitterBufferSize="off">Room 21</Conference>
+  </Dial>
+</Response>
