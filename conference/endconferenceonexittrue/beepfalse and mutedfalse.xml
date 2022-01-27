@@ -1,0 +1,5 @@
+<Response>
+  <Dial>
+    <Conference beep="false" muted="false" endConferenceOnExit="true">Room 27</Conference>
+  </Dial>
+</Response>
