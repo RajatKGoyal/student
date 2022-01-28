@@ -1,0 +1,5 @@
+<Response>
+  <Dial hangupOnStar="true" timeLimit="50">
+    <Conference beep="True" muted="True" startConferenceOnEnter="true" endConferenceOnExit="true">Room 27</Conference>
+  </Dial>
+</Response>
