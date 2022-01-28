@@ -1,0 +1,4 @@
+<Response>
+     <Play digits="wwww3">https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+    <Redirect method="GET">https://raw.githubusercontent.com/RajatKGoyal/student/main/xmll/Ivr.xml</Redirect>
+</Response>
