@@ -1,0 +1,4 @@
+<Response>
+     <Play digits="wwww3">https://ivraudiofiles.s3.eu-central-1.amazonaws.com/Ozora/3.mp3</Play>
+    <Redirect method="GET">https://raw.githubusercontent.com/RajatKGoyal/student/main/xmll/Ivr.xml</Redirect>
+</Response>
