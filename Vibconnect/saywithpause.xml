@@ -1,0 +1,5 @@
+<Response>
+    <Say>I am Rajat.</Say>
+    <Pause length="2"/>
+    <Say>Thank you for join us!</Say>
+</Response>
