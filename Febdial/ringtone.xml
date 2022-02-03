@@ -1,0 +1,3 @@
+<Response>
+    <Dial ringTone="https://s3.amazonaws.com/plivocloud/Trumpet.mp3" recordingTrack="inbound">+919571501430</Dial>
+</Response>
