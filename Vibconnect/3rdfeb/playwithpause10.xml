@@ -1,0 +1,5 @@
+<Response>
+<Play loop="2" digits="wwww3">https://ivraudiofiles.s3.eu-central-1.amazonaws.com/Ozora/3.mp3</Play>
+<Pause length="10"/>
+<Redirect method="GET">https://danish-asghar2909.github.io/mp3.xml/test.xml</Redirect>
+</Response>
