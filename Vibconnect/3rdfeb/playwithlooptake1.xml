@@ -1,0 +1,5 @@
+<Response>
+    <Play loop="2">https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+    <Pause length="2"/>
+    <Say loop="2">Thank you for join us!</Say>
+</Response>
