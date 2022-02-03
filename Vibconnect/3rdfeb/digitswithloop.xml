@@ -1,0 +1,5 @@
+<Response>
+    <Play loop="2" digits="www3">https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+    <Pause length="2"/>
+    <Play loop="2" digits="www3">https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Say>
+</Response>
