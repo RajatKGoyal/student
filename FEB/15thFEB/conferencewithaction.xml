@@ -1,0 +1,5 @@
+<Response>
+  <Dial action="https://endc4l885uw5ui.m.pipedream.ne" method="GET">
+    <Conference beep="false" startConferenceOnEnter="true" endConferenceOnExit="true" waitUrl="https://s3.amazonaws.com/plivocloud/Trumpet.mp3">Room_FEB15</Conference>
+  </Dial>
+</Response>
