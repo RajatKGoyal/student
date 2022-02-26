@@ -1,0 +1,11 @@
+<Response>
+  <Dial>
+    <Conference muted="false" beep="True" 
+        muted="True" 
+        startConferenceOnEnter="true" 
+        endConferenceOnExit="true"
+        statusCallback="https://eny7n9bkk4wmlcs.m.pipedream.net" 
+        statusCallbackMethod="POST" 
+        statusCallbackEvent="initiated, ringing, answered, completed">Room_FEB28</Conference>
+  </Dial>
+</Response>
